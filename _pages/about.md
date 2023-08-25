@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
 
 I'm a DMV Native Cloud Engineer and Founder of [GovCloud Solutions, LLC](https://www.govcloudsolutions.io) who's goal is to support our Federal Government and DoD Agencies with Cloud Adoption. I apply the DevSecOps Fundamentals to Cloud Native Projects and Workloads with an emphasis on Modernizing Applications to be Containerized and ready to Kubernetes Adoption.
 
