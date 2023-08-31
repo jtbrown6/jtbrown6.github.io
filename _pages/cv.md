@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Lincoln Univeristy (PA), 2010
+* Virtual Reality Application Center, Iowa State University, Summer 2010
+* M.S. in Applied Information Technology, Towson University, 2013
+* 12W, Carpentry and Masonry Specialist, Army Corps of Engineers, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2023: President/Owner
+  * GovCloud Solutions LLC
+  * Services Provided: Government Contracting supporting NIACS 541511 Programs and Efforts. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2021 - July 2023: Cloud Engineer
+  * Microsoft Corporation
+  * Duties included: Supporting Customers (Federal and Commercial) Migrating Workloads into PaaS Services to include AKS, AppServices and Container Services.
+  * Manager: W. Meyers
+
+* December 2010 - August 2021: Government Contractor
+  * Multiple Government Agencies
+  * Duties Included: Cybersecurity, DevSecOps, Cloud Architecting and Engineering, Software Engineering
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DevSecOps in Defense and Airgapped Environments
+* Kubernetes
+  * Configuration of Managed Clusters
+  * Ingress and Egress
+  * Networking Interfaces
+  * Security w/ KeyVaults
+  * Application and API Deployment - API Gateway
+* Cybersecurity and Risk Management Framework
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
@@ -48,12 +55,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Microsoft Code Academy Professor: Supporting Blacks @ Microsoft (BAM) Academy teaching Elemetary/Middle School Students Coding Best Practices using Block Based Coding
+* Maryland Army National Guard, 244th Engineering Unit
+* Kappa Alpha Psi Fratenity Incorporated 
+* Neuroscience Enthusist
+* HomeLab Virtualization Enthusist 
