@@ -18,7 +18,9 @@ This blog is simply a space where I want to document the interesting things I'm 
 
 I'm a DMV Native **IT Modernization Engineer** focusing on an array of technologies ranging from Cloud Native to DevSecOps and overall Cloud and Modernization Efforts. I started [GovCloud Solutions](https://www.govcloudsolutions.io) as a company to help our Federal Government with Cloud and IT Modernization Adoption to bidge the technology gap between Private and Government Efforts. Lately my shift has been on emphasising the adoption of Application Modernization using Open-Source, Containers and ultimately Kubernetes! 
 
-With a BS Degree in Computer Science and MS Degree in Applied Information Technology, I've supported Defense Agencies in numerous roles related to **Software Engineering**, **Cloud Engineering** and **Cybersecurity**. <p> After roughly 8 years in Defense, my career lead me to Big Tech supporting [Microsoft's FastTrack for Azure](https://www.microsoft.com/azure/partners/fasttrack-for-azure) AppDev Program where I supported the Cloud and AI Division as a Kubernetes Engineer migrating large companies into Cloud PaaS Offerings.
+With a BS Degree in Computer Science and MS Degree in Applied Information Technology, I've supported Defense Agencies in numerous roles related to **Software Engineering**, **Cloud Engineering** and **Cybersecurity**. 
+
+After roughly 8 years in Defense, my career lead me to Big Tech supporting [Microsoft's FastTrack for Azure](https://www.microsoft.com/azure/partners/fasttrack-for-azure) AppDev Program where I supported the Cloud and AI Division as a Kubernetes Engineer migrating large companies into Cloud PaaS Offerings.
 
 ### Why This Blog?
 
