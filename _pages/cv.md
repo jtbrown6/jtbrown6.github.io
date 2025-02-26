@@ -49,11 +49,13 @@ redirect_from:
 * **Microsoft Code Academy Professor** - BAM Academy teaching Elemetary/Middle School Students Coding Best Practices using Block Based Coding
 * **United States Army, Maryland National Guard** - 244th Engineering Unit, 12W Carpentry & Masonry Specialist
 * ♦️ **Kappa Alpha Psi Fratenity Incorporated ♦️** -  Baltimore Alumni Chapter 
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
   
 <!-- ### Talks
 ======
