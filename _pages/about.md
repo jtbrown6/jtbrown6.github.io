@@ -8,9 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm a DMV Native Cloud Engineer and Founder of [GovCloud Solutions, LLC](https://www.govcloudsolutions.io) who's goal is to support our Federal Government and DoD Agencies with Cloud Adoption. I apply the DevSecOps Fundamentals to Cloud Native Projects and Workloads with an emphasis on Modernizing Applications to be Containerized and ready to Kubernetes Adoption.
+### Exploring Tech, One Lab at a Time
 
-After earning my BS Degree in Computer Science from Lincoln University (PA) and my MS Degree from Towson University in Applied Information Technology, 
-I began supporting Defense Agencies in numerous roles around Software Engineering, Cyber Security and Cloud Engineering. After roughly 8 years in Defense, 
-my career shifted into Big Tech supporting [Microsoft's FastTrack for Azure](https://www.microsoft.com/azure/partners/fasttrack-for-azure) 
-Program where I supported the Cloud and AI Division as a Kubernetes Engineer.
+Welcome, I’m **Jamal Brown**, a Technology Enthusiast, Kubernetes Engineer, and lifelong learner. One of my favorite quotes is *if it doesn't challenge you, it wont change you* which is why here, I'll be taking on Enterprise problems and developing solutions around Enterprise IT, Kubernetes, MLOps, Agentic AI and Cloud. 
+
+This blog is simply a space where I want to document the interesting things I'm learning, how it works and putting into practice, how it could help in Enterprise Situations or for Homelab Scenarios. Whether its a simple open-source containerized app, automation via CI/CD, or Machine Learning, I enjoy tackling real-world challenges and sharing my wins and even losses along the way. 
+
+### Who Am I?
+
+I'm a DMV Native **IT Modernization Engineer** focusing on an array of technologies ranging from Cloud Native to DevSecOps and overall Cloud and Modernization Efforts. I started [GovCloud Solutions](https://www.govcloudsolutions.io) as a company to help our Federal Government with Cloud and IT Modernization Adoption to bidge the technology gap between Private and Government Efforts. Lately my shift has been on emphasising the adoption of Application Modernization using Open-Source, Containers and ultimately Kubernetes! 
+
+With a BS Degree in Computer Science and MS Degree in Applied Information Technology, I've supported Defense Agencies in numerous roles related to **Software Engineering**, **Cloud Engineering** and **Cybersecurity**. <p> After roughly 8 years in Defense, my career lead me to Big Tech supporting [Microsoft's FastTrack for Azure](https://www.microsoft.com/azure/partners/fasttrack-for-azure) AppDev Program where I supported the Cloud and AI Division as a Kubernetes Engineer migrating large companies into Cloud PaaS Offerings.
+
+### Why This Blog?
+
+Working in IT, the best way to learn is by doing, which is why I built my own server to practice homelab projects to act as a playground for hands-on experimentation. Overtime, I've set up **Production Ready Clusters** from each of the Major Vendors, Enterprise Core Services, and an array of Open-Source Tools. I want to share what works and even what doesn't with others in the Tech Community. 
+
+### What You’ll Find Here
+
+✅ Kubernetes & Cloud-Native Technologies – Building, securing, and optimizing clusters in an enterprise setting <p>
+✅ Homelab Projects – Practical setups, troubleshooting, and automation tips<p>
+✅ Infrastructure as Code & Automation – Ansible, Terraform, and GitOps best practices<p>
+✅ MLOps & AI in DevOps – Experimenting with machine learning in enterprise environments<p>
+✅ Security & Compliance – Hardening workloads, airgapped deployments, and enterprise IT governance
+
+*Work Hard, Think Harder...When You Think Hard, You'll Know Where to Work Hard*
+
+
