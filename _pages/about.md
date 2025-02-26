@@ -26,11 +26,17 @@ Working in IT, the best way to learn is by doing, which is why I built my own se
 
 ### What You’ll Find Here
 
-✅ Kubernetes & Cloud-Native Technologies – Building, securing, and optimizing clusters in an enterprise setting <p>
-✅ Homelab Projects – Practical setups, troubleshooting, and automation tips<p>
-✅ Infrastructure as Code & Automation – Ansible, Terraform, and GitOps best practices<p>
-✅ MLOps & AI in DevOps – Experimenting with machine learning in enterprise environments<p>
-✅ Security & Compliance – Hardening workloads, airgapped deployments, and enterprise IT governance
+✅ Kubernetes & Cloud-Native Technologies – Building, securing, and optimizing clusters in an enterprise setting
+
+
+✅ Homelab Projects – Practical setups, troubleshooting, integrated with Enterprise Code Services
+
+
+✅ MLOps & AI in DevOps – Experimenting with machine learning using Open-Source and Cloud Based PaaS Offerings
+
+
+✅ Security & Compliance – Hardening workloads, airgapped deployments, and Enterprise IT Governance
+
 
 *Work Hard, Think Harder...When You Think Hard, You'll Know Where to Work Hard*
 
