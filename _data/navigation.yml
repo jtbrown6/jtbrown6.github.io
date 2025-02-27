@@ -12,11 +12,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "AI & CI/CD Blogs"
+  - title: "Lab Blogs"
     url: /year-archive/
     
   - title: "Resume"
     url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
