@@ -20,7 +20,7 @@ I'm a DMV Native **IT Modernization Engineer** focusing on an array of technolog
 
 With a BS Degree in Computer Science and MS Degree in Applied Information Technology, I've supported Defense Agencies in numerous roles related to **Software Engineering**, **Cloud Engineering** and **Cybersecurity**. 
 
-After roughly 8 years in Defense, my career lead me to Big Tech supporting [Microsoft's FastTrack for Azure](https://www.microsoft.com/azure/partners/fasttrack-for-azure) AppDev Program where I supported the Cloud and AI Division as a Kubernetes Engineer migrating large companies into Cloud PaaS Offerings.
+After roughly 8 years in Defense, my career lead me to Big Tech supporting [Microsoft's FastTrack for Azure](https://partner.microsoft.com/en-gb/partnership/azure-fast-track) AppDev Program where I supported the Cloud and AI Division as a Kubernetes Engineer migrating large companies into Cloud PaaS Offerings.
 
 ### Why This Blog?
 
