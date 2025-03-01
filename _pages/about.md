@@ -40,6 +40,6 @@ Working in IT, the best way to learn is by doing, which is why I built my own se
 ✅ Security & Compliance – Hardening workloads, airgapped deployments, and Enterprise IT Governance
 
 
-*Work Hard, Think Harder...When You Think Hard, You'll Know Where to Work Hard*
+*Work Hard, But Think Harder...When You Think Hard, You'll Know Where To Work Hard*
 
 
