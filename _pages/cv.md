@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education - Formal
+### Education
 ======
 * **B.S. in Computer Science, Cum Laude**, Lincoln University (PA), 2010
 * **M.S. in Applied Information Technology**, Towson University, 2013
