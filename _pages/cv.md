@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+### Education - Formal
 ======
-* B.S. in Computer Science, Lincoln Univeristy (PA), 2010
+* **B.S. in Computer Science, Cum Laude**, Lincoln University (PA), 2010
+* **M.S. in Applied Information Technology**, Towson University, 2013
+
+======
 * Virtual Reality Application Center, Iowa State University, Summer 2010
-* M.S. in Applied Information Technology, Towson University, 2013
 * 12W, Carpentry and Masonry Specialist, Army Corps of Engineers, 2014
 
 ### Work experience
